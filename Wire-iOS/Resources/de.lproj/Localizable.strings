@@ -473,10 +473,10 @@
 "self.settings.sound_menu.sounds.wire_message" = "Wire Nachricht";
 "self.settings.sound_menu.sounds.wire_ping" = "Wire Ping";
 
-// Send Button
-"self.settings.send_button.title" = "Nutze die return taste um Nachrichten zu senden";
-"self.settings.send_button.header" = "Senden Taste";
-"self.settings.send_button.footer" = "Wenn aktiviert, werden Nachrichten bei Betätigung der Return Taste anstellt der Senden Taste gesendet";
+// By popular demand
+"self.settings.popular_demand.title" = "Auf allgemeinen Wunsch";
+"self.settings.popular_demand.send_button.title" = "Senden Taste";
+"self.settings.popular_demand.send_button.footer" = "Disable to send via the return key";
 
 // Sound alerts (TO BE UPDPATED)
 "self.settings.sound_menu.title" = "Benachrichtigungen";
@@ -511,6 +511,7 @@
 "self.settings.advanced.reset_push_token.subtitle" = "Wire Kundenservice kann dich bitten, dieses Token zurücksetzen, wenn du Probleme mit Push-Benachrichtigungen hast.";
 "self.settings.advanced.reset_push_token_alert.title" = "Der Benachrichtigungs-Token wurde zurückgesetzt";
 "self.settings.advanced.reset_push_token_alert.message" = "Sie sollten in wenigen Sekunden wieder Benachrichtigungen erhalten können.";
+"self.settings.advanced.version_technical_details.title" = "Version Technical Details";
 
 // Technical Report
 "self.settings.technical_report_section.title" = "Technische Logs";
@@ -703,7 +704,8 @@
 "giphy.error.no_result" = "kein gif gefunden";
 
 "giphy.confirm" = "senden";
-"giphy.try_another" = "Nächstes";
+"giphy.cancel" = "abbrechen";
+"giphy.search_placeholder" = "Auf Giphy suchen";
 
 "invite_banner.title" = "Hole deine Freunde zu Wire!";
 "invite_banner.message" = "Anrufen, Bilder teilen, Musik, GIFs\nund vieles mehr in persönlichen und Gruppenunterhaltungen.";
